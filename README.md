@@ -1,2 +1,2 @@
 # hello-world
-my first learning project
+my first learning project 08/28/2018
