@@ -1,2 +1,2 @@
 # hello-world
-my first learning project 08/28/2018, 2:06PM
+my first learning project August 28, 2018
